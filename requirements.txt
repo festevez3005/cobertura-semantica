@@ -1,0 +1,8 @@
+streamlit
+sentence-transformers
+numpy
+requests
+beautifulsoup4
+scikit-learn
+matplotlib
+pandas # Necesario para procesar las queries de GSC
